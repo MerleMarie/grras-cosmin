@@ -2,12 +2,11 @@
 title-block-banner: true
 title-block-banner-color: "#191970"
 ---
-
-## **Welcome to the GRRAS-COSMIN website!**
+# Welcome!
 
 We are updating the **G**uidelines for **R**eporting **R**eliability and **A**greement **S**tudies (**GRRAS**) in collaboration with the **CO**nsensus-based **S**tandards for the selection of health **M**easurement **IN**strumentsinitiative (**COSMIN**) intiative to create a new, consensus-based reporting guideline for reliability and agreement/measurement error studies: the GRRAS-COSMIN guideline.
 
-![](images/GRRAS-Logo-Version2.png){width="75%" fig-align="center"}
+![](images/grras-cosmin-logo2.png){width="50%" fig-align="center"}
 
 The original [**GRRAS**](https://doi.org/10.1016/j.jclinepi.2010.03.002) were published in 2011. While still widely used, they may no longer reflect current methodological and reporting standards in health research. Since then, significant advances have been made in the design and analysis of reliability and agreement studies — including sample size determination and other statistical considerations. Moreover, the original GRRAS were developed before formal guidance for reporting guideline development became available.
 
@@ -22,7 +21,7 @@ Meet our steering committee members [here](team.qmd).
 
 **Contact point**: [Merle-Marie Pittelkow](https://klinische-pflegewissenschaft.charite.de/metas/person/person/address_detail/merle_marie_pittelkow), on behalf of the GRRAS COSMIN steering committee, Charité Universtitätsmedizin Berlin, Institute for Clinical Nursing Science, Berlin, Germany. <a href="mailto:merle-marie@charite.de" class="email-link"> <i class="bi bi-envelope-fill"></i> Get in touch. </a>
 
-### Funding
+## Funding
 
 This project is funded by the Deutsche Forschungsgemeinschaft (DFG) - Project number 560535232. The grant application is available [here](https://gepris.dfg.de/gepris/projekt/560535232).
 
