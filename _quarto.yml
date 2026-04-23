@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: docs/
 
 
 website:
@@ -21,10 +21,10 @@ website:
       - projects.qmd
       - team.qmd
     logo: "images/grras-cosmin-logo-small.png"
-    background: "#009999"
+    background: "#191970"
   page-footer:
     border: true
-    background: "#009999"
+    background: "#191970"
     left: "This website is under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)."  
     right: 
       <img src="images/dfg-logo-blau.jpg" alt="DFG logo" height="40" style="margin-right:10px;">
